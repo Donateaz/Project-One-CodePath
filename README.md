@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] Clicking Search withdraws Keyboard but keeps filtered movies whereas clicking Cancel withdraws keyboard and shows all movies
+- [x] Ratings are visable with collors showing good or bad
 - [Tired, worked, but did not show graphics] Once network error resolves, the network error view can withdrawn by clicking on it (part of optional feature) and also by pull-down refresh (additional feature). 
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
