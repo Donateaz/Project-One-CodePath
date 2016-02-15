@@ -42,7 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-1. Setting CollectionViewLayout values. I had to do a lot of hit & trial to get the right spacing.
+1. Had to start over many times beacuse app would run but graphics wouldn't load
 
 ## License
 
