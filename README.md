@@ -10,8 +10,8 @@ The following **required** functionality is complete:
 
 - [x] User can view a list of movies currently playing in theaters from The Movie Database.
 - [x] Poster images are loaded using the UIImageView category in the AFNetworking library.
-- [Tired, worked, but did not show graphics] User sees a loading state while waiting for the movies API.
-- [Tired, worked, but did not show graphics] User can pull to refresh the movie list.
+- [Tried, worked, but did not show graphics] User sees a loading state while waiting for the movies API.
+- [Tried, worked, but did not show graphics] User can pull to refresh the movie list.
 
 The following **optional** features are implemented:
 
@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 - [x] Clicking Search withdraws Keyboard but keeps filtered movies whereas clicking Cancel withdraws keyboard and shows all movies
 - [x] Ratings are visable with collors showing good or bad
-- [Tired, worked, but did not show graphics] Once network error resolves, the network error view can withdrawn by clicking on it (part of optional feature) and also by pull-down refresh (additional feature). 
+- [Tried, worked, but did not show graphics] Once network error resolves, the network error view can withdrawn by clicking on it (part of optional feature) and also by pull-down refresh (additional feature). 
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
